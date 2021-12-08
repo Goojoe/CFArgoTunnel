@@ -14,7 +14,7 @@ Argo Tunnel是什么?(以下简称argo)
 
 
 
-## 作用方向
+## 应用方向
 
 - Minecraft服务器(还在研究)
 
